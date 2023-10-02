@@ -15,11 +15,7 @@ Especificación de requerimientos generales del proyecto:
 7.	Estética web
 8.	Guardado/Actualizado de citas en Base de Datos. 
 Procedimientos de desarrollo
-Herramientas utilizadas: Para la capa IU desarrollaremos documentos web con estilos mediante Sublime Text 3. Para la capa de Aplicación crearemos un proyecto Java con Eclipse. Por último para la Base de Datos tendrá motor MySQL y WampServer.<br>
-
-![image](https://github.com/FaridAmagua/Proyecto-Peluqueria/assets/98462673/77e60e9d-45bd-440e-8322-3044b5cc1d3c)
-<br>
-
+Herramientas utilizadas: Para la capa IU desarrollaremos documentos web con estilos mediante Sublime Text 3. Para la capa de Aplicación crearemos un proyecto Java con Eclipse. Por último para la Base de Datos tendrá motor MySQL y WampServer.
 2. Arquitectura del sistema
 <br>
 ![image](https://github.com/FaridAmagua/Proyecto-Peluqueria/assets/98462673/45da96a0-4f6b-4fed-a0e8-4330d519dffb)
