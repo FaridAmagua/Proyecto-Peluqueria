@@ -17,15 +17,16 @@ Especificación de requerimientos generales del proyecto:
 Procedimientos de desarrollo
 Herramientas utilizadas: Para la capa IU desarrollaremos documentos web con estilos mediante Sublime Text 3. Para la capa de Aplicación crearemos un proyecto Java con Eclipse. Por último para la Base de Datos tendrá motor MySQL y WampServer.
 2. Arquitectura del sistema
-<br>
-![image](https://github.com/FaridAmagua/Proyecto-Peluqueria/assets/98462673/45da96a0-4f6b-4fed-a0e8-4330d519dffb)
+![image](https://github.com/FaridAmagua/Proyecto-Peluqueria/assets/98462673/ef53fc1d-c4dd-4f59-be4b-c2c5f89f0697)
+
+
 <br>
 En nuestra aplicación la disposición de los módulos es bastante clara. En la parte Web la arquitectura comienza con el registro de usuario. Una vez el cliente se haya registrado podrá hacer login y la creación, modificación y/o eliminación de sus citas personales.
 En cuanto a la parte Java, su uso está más enfocado al de los empleados. Esta parte de la arquitectura comienza con el login del usuario. Una vez accedamos, se abrirá una pantalla en el que saldrá un menú con diferentes opciones para realizar diversas funciones. Las diversas funciones que nos ofrece el menú son el registro de usuarios, la posibilidad de realizar consultas de las citas de los clientes y la creación, modificación y eliminación de citas.
+
+![image](https://github.com/FaridAmagua/Proyecto-Peluqueria/assets/98462673/b43c072e-2dac-4c08-876e-cddc96788dd8)
 <br>
-![image](https://github.com/FaridAmagua/Proyecto-Peluqueria/assets/98462673/a92bb953-c586-43b9-940f-74d56c0450dd)
-<br>
-![image](https://github.com/FaridAmagua/Proyecto-Peluqueria/assets/98462673/6d5f8962-8f4a-46ae-b964-c3f4fbe195a6)
+![image](https://github.com/FaridAmagua/Proyecto-Peluqueria/assets/98462673/5845f238-05f2-4213-86de-e729ff7f6c12)
 <br>
 4. Diseño del modelo de datos
 <br>
