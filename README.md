@@ -41,6 +41,7 @@ Esquema Tablas del Sistema
 <br>
 
 ![image](https://github.com/FaridAmagua/Proyecto-Peluqueria/assets/98462673/ef820f33-2a77-4a60-88ad-ad4d1ebc3cb7)
+
 ![image](https://github.com/FaridAmagua/Proyecto-Peluqueria/assets/98462673/be38c225-5c68-4ee9-81a2-607770d719b0)
 ![image](https://github.com/FaridAmagua/Proyecto-Peluqueria/assets/98462673/d62fd802-a006-420b-95fc-e9cf672f2b98)
 ![image](https://github.com/FaridAmagua/Proyecto-Peluqueria/assets/98462673/354fb75b-142b-4dc3-a61f-d1172bfc52de)
